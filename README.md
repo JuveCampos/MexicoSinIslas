@@ -16,5 +16,8 @@ La paqueteria "sf" utilizada para manipular dicho shapefile:
 Edzer Pebesma (2017). sf: Simple Features for R. R package version 0.5-4.
   https://CRAN.R-project.org/package=sf
 
+Comentarios, dudas o sugerencias, favor de comunicarlas!
+(Con confianza! no muerdo :P )
 
+Jorge Juvenal Campos Ferreira
 
