@@ -21,3 +21,4 @@ Comentarios, dudas o sugerencias, favor de comunicarlas!
 
 Jorge Juvenal Campos Ferreira
 
+(**Actualización: 28/06/2019.** La idea para hacer este shape sin islas podría parecer sencilla ahora, pero en su momento tener un shape sin islas se me hacía algo muy especial. Tener un polígono especial para cada estado, además, conlleva ciertas ventajas al hacer leaflets reactivos ante eventos en aplicaciones shiny).
